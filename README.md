@@ -1,7 +1,7 @@
 # Artificial Neural Network
 
 Currently contains implementations of algorithms based on single-layer perceptron (SLP).
-Mainly inspired by the book "[The Nature of Code](http://natureofcode.com)" by Daniel Shiffman
+Mainly inspired by the book "[The Nature of Code](http://natureofcode.com)" by Daniel Shiffman.
 
 ### Prerequisites
 
@@ -33,6 +33,7 @@ Given a set of points distributed over a predefined area ( origin-centered unit 
 
 A picture is worth a thousand words, just run the code and do your own modification.
 
+Note that SLP can only solve linearly separable problems.
 
 ### What's next ?
 
