@@ -20,6 +20,7 @@ see [pigar](https://github.com/damnever/pigar.git) (Generates reqs)
 Just run scripts with
 
 ```
+python3 simple_perceptron.py
 python3 next_perceptron.py
 ```
 
